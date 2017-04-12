@@ -1,4 +1,4 @@
-package de.aeroworx;
+package net.rorarius;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

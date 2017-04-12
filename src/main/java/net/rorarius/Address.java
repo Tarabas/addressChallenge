@@ -1,4 +1,4 @@
-package de.aeroworx;
+package net.rorarius;
 
 public class Address {
 

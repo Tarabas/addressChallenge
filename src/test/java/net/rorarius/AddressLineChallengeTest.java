@@ -1,4 +1,5 @@
-import de.aeroworx.AddressLineChallenge;
+package net.rorarius;
+
 import org.junit.Test;
 
 import static org.hamcrest.MatcherAssert.assertThat;
